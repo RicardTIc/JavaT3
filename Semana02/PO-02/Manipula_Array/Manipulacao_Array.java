@@ -53,7 +53,7 @@ class ManipulaArray {
     }
 }
 
-public class teste3 {
+public class Manipulacao_Array {
 
     public static void main(String[] args) {
         ManipulaArray array = new ManipulaArray(5);

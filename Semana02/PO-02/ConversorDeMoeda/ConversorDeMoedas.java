@@ -7,7 +7,7 @@ public class ConversorDeMoedas {
   public static void main(String[] args) {
     // Peça ao usuário para inserir a taxa de câmbio.
     Scanner scanner = new Scanner(System.in);
-    System.out.println("Insira a taxa de cambio entre dolares e a moeda de destino: ");
+    System.out.println("Insira a taxa de cambio: ");
     double taxaCambio = scanner.nextDouble();
 
     // Peça ao usuário para inserir a quantidade em dólares.
